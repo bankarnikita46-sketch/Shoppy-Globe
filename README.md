@@ -77,3 +77,6 @@ src/
 - `node_modules` is **not** included (as required).
 - Run `npm install` before launching.
 - Make at least 25 meaningful commits when pushing to GitHub.
+
+// 1. Initial setup comment
+// 2. Added navbar comment
